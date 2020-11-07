@@ -1,0 +1,38 @@
+E:\软件标准化\SoftwareStandardization\HelpTools\obj\Debug\HelpTools.csprojResolveAssemblyReference.cache
+E:\软件标准化\SoftwareStandardization\HelpTools\bin\Debug\HelpTools.dll
+E:\软件标准化\SoftwareStandardization\HelpTools\bin\Debug\HelpTools.pdb
+E:\软件标准化\SoftwareStandardization\HelpTools\obj\Debug\HelpTools.dll
+E:\软件标准化\SoftwareStandardization\HelpTools\obj\Debug\HelpTools.pdb
+G:\标准化范例\SoftwareStandardization\HelpTools\bin\Debug\HelpTools.dll
+G:\标准化范例\SoftwareStandardization\HelpTools\bin\Debug\HelpTools.pdb
+G:\标准化范例\SoftwareStandardization\HelpTools\obj\Debug\HelpTools.dll
+G:\标准化范例\SoftwareStandardization\HelpTools\obj\Debug\HelpTools.pdb
+F:\软件交接\3.厦门天马\9.InLine MCR(AK47) - 封包\20180723 InLine VCR(DM) V2.0\HelpTools\bin\Debug\HelpTools.dll
+F:\软件交接\3.厦门天马\9.InLine MCR(AK47) - 封包\20180723 InLine VCR(DM) V2.0\HelpTools\bin\Debug\HelpTools.pdb
+F:\软件交接\3.厦门天马\9.InLine MCR(AK47) - 封包\20180723 InLine VCR(DM) V2.0\HelpTools\obj\Debug\HelpTools.dll
+F:\软件交接\3.厦门天马\9.InLine MCR(AK47) - 封包\20180723 InLine VCR(DM) V2.0\HelpTools\obj\Debug\HelpTools.pdb
+G:\雷亚\InLine VCR(DM) V2.09.01\HelpTools\bin\Debug\HelpTools.dll
+G:\雷亚\InLine VCR(DM) V2.09.01\HelpTools\bin\Debug\HelpTools.pdb
+G:\雷亚\InLine VCR(DM) V2.09.01\HelpTools\obj\Debug\HelpTools.dll
+G:\雷亚\InLine VCR(DM) V2.09.01\HelpTools\obj\Debug\HelpTools.pdb
+G:\雷亚\InLine VCR(DM)\HelpTools\bin\Debug\HelpTools.dll
+G:\雷亚\InLine VCR(DM)\HelpTools\bin\Debug\HelpTools.pdb
+G:\雷亚\InLine VCR(DM)\HelpTools\obj\Debug\HelpTools.dll
+G:\雷亚\InLine VCR(DM)\HelpTools\obj\Debug\HelpTools.pdb
+G:\雷亚\InLine VCR(DM)\HelpTools\obj\Debug\HelpTools.csprojResolveAssemblyReference.cache
+E:\项目\厦门天马\mcr\InLine VCR(DM)\HelpTools\bin\Debug\HelpTools.dll
+E:\项目\厦门天马\mcr\InLine VCR(DM)\HelpTools\bin\Debug\HelpTools.pdb
+E:\项目\厦门天马\mcr\InLine VCR(DM)\HelpTools\obj\Debug\HelpTools.csprojResolveAssemblyReference.cache
+E:\项目\厦门天马\mcr\InLine VCR(DM)\HelpTools\obj\Debug\HelpTools.dll
+E:\项目\厦门天马\mcr\InLine VCR(DM)\HelpTools\obj\Debug\HelpTools.pdb
+E:\项目\厦门天马\mcr\InLine VCR(DM) - 副本\HelpTools\bin\Debug\HelpTools.dll
+E:\项目\厦门天马\mcr\InLine VCR(DM) - 副本\HelpTools\bin\Debug\HelpTools.pdb
+E:\项目\厦门天马\mcr\InLine VCR(DM) - 副本\HelpTools\obj\Debug\HelpTools.csprojResolveAssemblyReference.cache
+E:\项目\厦门天马\mcr\InLine VCR(DM) - 副本\HelpTools\obj\Debug\HelpTools.dll
+E:\项目\厦门天马\mcr\InLine VCR(DM) - 副本\HelpTools\obj\Debug\HelpTools.pdb
+C:\github-pj\HelpTools\bin\Debug\HelpTools.dll
+C:\github-pj\HelpTools\bin\Debug\HelpTools.pdb
+C:\github-pj\HelpTools\obj\Debug\HelpTools.csproj.CoreCompileInputs.cache
+C:\github-pj\HelpTools\obj\Debug\HelpTools.dll
+C:\github-pj\HelpTools\obj\Debug\HelpTools.pdb
+C:\github-pj\HelpTools\obj\Debug\HelpTools.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\项目\厦门天马\mcr\3.08.01.01\InLine VCR(DM)\HelpTools\bin\Release\HelpTools.dll
+E:\项目\厦门天马\mcr\3.08.01.01\InLine VCR(DM)\HelpTools\bin\Release\HelpTools.pdb
+E:\项目\厦门天马\mcr\3.08.01.01\InLine VCR(DM)\HelpTools\obj\Release\HelpTools.dll
+E:\项目\厦门天马\mcr\3.08.01.01\InLine VCR(DM)\HelpTools\obj\Release\HelpTools.pdb
